@@ -21,6 +21,7 @@ students who are not attentive and drowsing in the class.
 
 
 The eye aspect ratio is mostly constant when an eye is open and is getting close to zero while closing an eye.
+![image](https://user-images.githubusercontent.com/79853946/137872260-2fcc3cda-65c6-4fee-a65a-607ffd23ca08.png)
 The eye aspect ratio between height and width of the eye is computed by equation shown above.
 ![image](https://user-images.githubusercontent.com/79853946/137870990-b0a15bdb-c708-4d91-85b7-7896fa6011b1.png)
 
