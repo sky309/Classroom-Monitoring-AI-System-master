@@ -61,7 +61,7 @@ The proposed approach for drowsiness detection system is very simple in terms of
 References:
   </i></b>
    
-    <i>
+  <p><i>
 ❖ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-de
 ep-learning/
   
@@ -73,4 +73,4 @@ ep-learning/
 ze_Estimation_ICCV_2019_paper.pdf
   
 ❖ https://paperswithcode.com/paper/few-shot-adaptive-gaze-estimation
-  </i>
+    </i></p>
