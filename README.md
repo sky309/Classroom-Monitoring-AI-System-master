@@ -21,10 +21,6 @@ students who are not attentive and drowsing in the class.
 
 
 The eye aspect ratio is mostly constant when an eye is open and is getting close to zero while closing an eye.
-
-
-
-
 The eye aspect ratio between height and width of the eye is computed by equation shown above.
 ![image](https://user-images.githubusercontent.com/79853946/137870990-b0a15bdb-c708-4d91-85b7-7896fa6011b1.png)
 
@@ -64,11 +60,16 @@ The proposed approach for drowsiness detection system is very simple in terms of
 
 <i>
 ### References:
+  
 ❖ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-de
 ep-learning/
+  
 ❖ https://analyticsindiamag.com/a-complete-guide-on-building-a-face-attendance-system/
+  
 ❖  https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+  
 ❖ https://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Ga
 ze_Estimation_ICCV_2019_paper.pdf
+  
 ❖ https://paperswithcode.com/paper/few-shot-adaptive-gaze-estimation
   </i>
