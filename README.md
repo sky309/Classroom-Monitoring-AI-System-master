@@ -53,12 +53,12 @@ The proposed approach for drowsiness detection system is very simple in terms of
 <i>Linkedin:<a href="https://www.linkedin.com/in/sarveshkumaryadav/"></i>
   </b>
   <i> Contact me for Data Science Project Collaborations</i></p>
-<p><i>YouTube:<a href="https://youtu.be/4lsiSoLW53Q"></i>
+  <p><i><b>YouTube:</b><a href="https://youtu.be/4lsiSoLW53Q"></i>
  <i> Follow me for interesting AI/ML Projects</i></p>
 
 
 <i>
-### References:
+#References:
   
 ❖ https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-de
 ep-learning/
